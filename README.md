@@ -4,6 +4,8 @@ A simple Python-based caching proxy server that forwards HTTP requests to a targ
 
 ---
 
+project url: https://roadmap.sh/projects/caching-server
+
 ## Features
 
 - Forwards **GET requests** to a target server.
